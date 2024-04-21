@@ -3,7 +3,7 @@
     "username": "root",
     "password": "root",
     "database": "happy",
-    "host": "ec2-34-204-11-12.compute-1.amazonaws.com",
+    "host": "ec2-52-90-126-188.compute-1.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
@@ -17,7 +17,7 @@
     "username": "root",
     "password": "root",
     "database": "happy",
-    "host": "ec2-34-204-11-12.compute-1.amazonaws.com",
+    "host": "ec2-52-90-126-188.compute-1.amazonaws.com",
     "dialect": "mysql"
   }
 }
